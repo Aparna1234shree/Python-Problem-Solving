@@ -1,0 +1,7 @@
+pip install selenium 
+pip install requests
+pip install "Flask<2.0"
+# install all packages that are needed
+pip freeze > requirements.txt
+# now, the list of packages installed will be written to a text file called "requirements.txt"
+Screenshot(14).png and Screenshot(15).png are the screenshots for the reference. 
